@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 496ad63b-47b4-4e76-8fd1-6a0b99074573
+      url: 'https://puniat.quarto.pub/website'
